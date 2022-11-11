@@ -33,7 +33,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT32_SIGNIFICAND_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-significand-mask@esm/index.mjs';
+import FLOAT32_SIGNIFICAND_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-significand-mask@v0.0.1-esm/index.mjs';
 ```
 
 #### FLOAT32_SIGNIFICAND_MASK
@@ -71,7 +71,7 @@ var bool = ( FLOAT32_SIGNIFICAND_MASK === 0x007fffff );
 <script type="module">
 
 import toWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-word@esm/index.mjs';
-import FLOAT32_SIGNIFICAND_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-significand-mask@esm/index.mjs';
+import FLOAT32_SIGNIFICAND_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-significand-mask@v0.0.1-esm/index.mjs';
 
 var x = 11.5;
 var w = toWord( x ); // 0 10000010 01110000000000000000000
