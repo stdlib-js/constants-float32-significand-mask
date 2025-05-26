@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-09)
+## Unreleased (2025-05-26)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`cf54782`](https://github.com/stdlib-js/stdlib/commit/cf547821b6bf3dff9f59d177eb99394c70402882) - rename constant to follow `float32` naming conventions
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`cf54782`](https://github.com/stdlib-js/stdlib/commit/cf547821b6bf3dff9f59d177eb99394c70402882) - **fix:** rename constant to follow `float32` naming conventions _(by Karan Anand)_
 -   [`1c56b73`](https://github.com/stdlib-js/stdlib/commit/1c56b737ec018cc818cebf19e5c7947fa684e126) - **docs:** update related packages sections [(#3380)](https://github.com/stdlib-js/stdlib/pull/3380) _(by stdlib-bot)_
 
 </details>
@@ -19,6 +30,18 @@
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
